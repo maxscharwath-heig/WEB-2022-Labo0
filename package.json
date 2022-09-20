@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "0-hello-world-maxscharwath",
+  "description": "L'objectif de ce laboratoire est d'installer l'environnement de développement et de se familiariser avec GitHub Classroom. C'est un travail individuel d'introduction qui n'est pas noté.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-classroom/0-hello-world-maxscharwath.git"
+  },
+  "author": "Maxime Scharwath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-classroom/0-hello-world-maxscharwath/issues"
+  },
+  "homepage": "https://github.com/web-classroom/0-hello-world-maxscharwath#readme"
+}
